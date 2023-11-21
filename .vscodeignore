@@ -34,3 +34,4 @@ yarn.lock
 package.insiders.json
 README.insiders.md
 tsfmt.json
+test/*
